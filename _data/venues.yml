@@ -1,9 +1,62 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IPSN":
+  color: "#f92080" # pink
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IPSN'23":
+  color: "#f92080" # pink
 
-"Vision":
-  color: "#009f36"
+"MobiCom'23 Poster":
+  color: "#f92080" # pink
+
+
+"SenSys":
+  color: "#f29105" # orange
+
+"SenSys'21 Poster":
+  color: "#f29105" # orange
+
+"SenSys'23 Poster":
+  color: "#f29105" # orange
+
+
+"ICPADS":
+  color: "#0076df" # blue
+
+"ICPADS'21":
+  color: "#0076df" # blue
+
+"ICSOC":
+  color: "#0076df" # blue
+
+"ICSOC'23":
+  color: "#0076df" # blue
+
+
+"Preprint":
+  color: "#f29105" # orange
+
+
+"IEEE TMC":
+  color: "#00ab37" # green
+
+"IEEE TMC'24":
+  color: "#00ab37" # green
+
+
+"IEEE TNSM":
+  color: "#00ab37" # green
+
+"IEEE TNSM'24":
+  color: "#00ab37" # green
+
+"IEEE TPDS":
+  color: "#00ab37" # green
+
+"IEEE TPDS'24":
+  color: "#00ab37" # green
+
+"Sensors":
+  color: "#00ab37" # green
+
+"Sensors'19":
+  color: "#00ab37" # green
+
