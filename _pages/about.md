@@ -17,7 +17,8 @@ profile:
     <h5>Postdoctoral Associate</h5>
     <p><a href="https://www.deib.polimi.it/ita/home/">The Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB)</a></p>
     <p><a href="https://www.polimi.it/en/">Politecnico di Milano</a></p>
-    <p>Email:<a href="mailto:zhangzy@stu.hit.edu.cn">zhangzy@stu.hit.edu.cn</a></p>
+    <p>Email: <a href="mailto:zhangzy@stu.hit.edu.cn">zhangzy@stu.hit.edu.cn</a></p>
+    <p>Office: <a href="https://maps.polimi.it/maps/">Building 21<a>, via Golgi 39, Milano Leonardo’s Politecnico Campus</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
