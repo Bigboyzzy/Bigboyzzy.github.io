@@ -12,7 +12,6 @@ profile:
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
-
   personal_data: >
     <h5>Postdoctoral Associate</h5>
     <p><a href="https://www.deib.polimi.it/ita/home/">The Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB)</a></p>
