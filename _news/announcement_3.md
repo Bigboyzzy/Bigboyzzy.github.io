@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-15 15:59:00-0400
+date: 2024-01-23 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Started as a tenure-track assistant professor @ [HKUST CSE](https://cse.hkust.edu.hk/admin/people/faculty/profile/xmouyang).
+DVFO: Learning-Based DVFS for Energy-Efficient Edge-Cloud Collaborative Inference, our paper was accepted by IEEE Transactions on Mobile Computing in January 2024.
