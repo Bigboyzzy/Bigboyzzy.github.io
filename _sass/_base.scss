@@ -27,6 +27,7 @@ table {
   td,
   th {
     font-size: 1rem;
+    padding: 1px 1rem 1px 0;
   }
 
   th {
@@ -71,7 +72,10 @@ blockquote {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
 
-    p {
+    em,
+    li,
+    p,
+    strong {
       color: var(--global-tip-block-text);
     }
 
@@ -89,7 +93,10 @@ blockquote {
     border-color: var(--global-warning-block);
     background-color: var(--global-warning-block-bg);
 
-    p {
+    em,
+    li,
+    p,
+    strong {
       color: var(--global-warning-block-text);
     }
 
@@ -107,7 +114,10 @@ blockquote {
     border-color: var(--global-danger-block);
     background-color: var(--global-danger-block-bg);
 
-    p {
+    em,
+    li,
+    p,
+    strong {
       color: var(--global-danger-block-text);
     }
 
@@ -194,21 +204,6 @@ ul.task-list input[type="checkbox"] {
       display: inline-block;
       margin: 0;
     }
-  };
-
-  .personal-data {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
-    line-height: 0.8;
-      
-    p {
-      display: inline-block;
-      margin: 0;
-      font-size: large;
-      line-height: 1;
-    }
-
   }
 }
 
@@ -385,10 +380,10 @@ ul.task-list input[type="checkbox"] {
 // Social (bottom)
 
 .social {
-  text-align: left;
+  text-align: center;
 
   .contact-icons {
-    font-size: 2rem;
+    font-size: 4rem;
 
     a {
       i::before {
@@ -679,23 +674,12 @@ footer.sticky-bottom {
       font-size: 1.5rem;
     }
   }
-  
+
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: -2rem;
-    text-align: right;
-    display: none;
-  }
-
-  h2.year {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
     text-align: right;
   }
 
@@ -705,13 +689,12 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 0.5rem;
+      margin-bottom: 1rem;
 
       .preview {
       }
 
       .abbr {
-        height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
