@@ -1,11 +1,4 @@
-"IPSN":
-  color: "#0076df" # blue
-
 "IPSN'23":
-  color: "#0076df" # blue
-
-
-"SenSys":
   color: "#0076df" # blue
 
 "SenSys'21 Poster":
@@ -14,44 +7,20 @@
 "SenSys'23 Poster":
   color: "#0076df" # blue
 
-"ICPADS":
-  color: "#0076df" # blue
-
 "ICPADS'21":
-  color: "#0076df" # blue
-
-"ICSOC":
   color: "#0076df" # blue
 
 "ICSOC'23":
   color: "#0076df" # blue
 
-
-"Preprint":
-  color: "#f29105" # orange
-
-
-"IEEE TMC":
-  color: "#00ab37" # green
-
 "IEEE TMC'24":
-  color: "#00ab37" # green
-
-"IEEE TNSM":
   color: "#00ab37" # green
 
 "IEEE TNSM'24":
   color: "#00ab37" # green
 
-"IEEE TPDS":
-  color: "#00ab37" # green
-
 "IEEE TPDS'24":
-  color: "#00ab37" # green
-
-"Sensors":
   color: "#00ab37" # green
 
 "Sensors'19":
   color: "#00ab37" # green
-
