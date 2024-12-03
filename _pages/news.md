@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recent News
-permalink: /Recent News/
+permalink: /news/
 ---
 
 {% include news.liquid %}
