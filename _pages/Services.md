@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Service
+title: Services
 permalink: /service/
 description: 
 nav: true
