@@ -1,19 +1,18 @@
 "IPSN":
-  color: "#f92080" # pink
+  color: "#0076df" # blue
 
 "IPSN'23":
-  color: "#f92080" # pink
+  color: "#0076df" # blue
 
 
 "SenSys":
-  color: "#f29105" # orange
+  color: "#0076df" # blue
 
 "SenSys'21 Poster":
-  color: "#f29105" # orange
+  color: "#0076df" # blue
 
 "SenSys'23 Poster":
-  color: "#f29105" # orange
-
+  color: "#0076df" # blue
 
 "ICPADS":
   color: "#0076df" # blue
@@ -37,7 +36,6 @@
 
 "IEEE TMC'24":
   color: "#00ab37" # green
-
 
 "IEEE TNSM":
   color: "#00ab37" # green
