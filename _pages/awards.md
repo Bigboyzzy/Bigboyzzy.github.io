@@ -11,7 +11,7 @@ nav_order: 3
 Consortium for Mathematics and its Applications (COMAP), 2017
 
 **National Scholarship** (highest honor in China)\
-Ministry of Education of China, 2018
+Ministry of Education of China, 2019
 
-**First Prize of National Undergraduate Electronic Design Contest**\
-Ministry of Education & Ministry of Industry and Information Technology of China, 2017
+**Tencent Scholarship**\
+Tencent Corp, 2024
