@@ -19,6 +19,6 @@ nav_order: 4
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - IEEE Transactions on Vehicular Technology (TVT)
-- IEEE Internet of Things Journal (IoTJ)
 - IEEE Transactions on Network and Service Management (TNSM)
+- IEEE Internet of Things Journal (IoTJ)
 - Elsevier Internet of Things (IoT)
