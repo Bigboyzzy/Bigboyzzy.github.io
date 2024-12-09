@@ -34,8 +34,8 @@ I am currently a Postdoctoral Associate in the [NESLab](https://www.neslab.it/) 
 
 My main research interest is edge computing, embedded intelligence, with a focus on high-performance and energy-efficent edge DNN inference.
 
-- DNN Compilation Optimization ([POS](https://dl.acm.org/doi/abs/10.1145/3583120.3586953)).
-- Task Scheduling and Resource Allocation ([Octopus](https://link.springer.com/chapter/10.1007/978-3-031-48424-7_18), [BCEdge](https://ieeexplore.ieee.org/abstract/document/10549973), [ECSRL](https://dl.acm.org/doi/abs/10.1145/3485730.3492886)).
-- Collaborative AI ([DVFO](https://ieeexplore.ieee.org/abstract/document/10412103)).
+- DNN Compilation Optimization ([POS](https://Bigboyzzy.github.io/assets/pdf/POS_IPSN.pdf), [TOP](https://Bigboyzzy.github.io/assets/pdf/TPDS-TOP.pdf)).
+- Task Scheduling and Resource Allocation ([Octopus](https://Bigboyzzy.github.io/assets/pdf/ICSOC.pdf), [BCEdge](https://Bigboyzzy.github.io/assets/pdf/BCEdge_TNSM.pdf), [ECSRL](https://Bigboyzzy.github.io/assets/pdf/ECSRL_SenSys.pdf)).
+- Collaborative AI ([DVFO](https://Bigboyzzy.github.io/assets/pdf/DVFO_TMC.pdf)).
 
 You can find my CV [here](https://Bigboyzzy.github.io/assets/pdf/Ziyang_Zhang_CV.pdf).
