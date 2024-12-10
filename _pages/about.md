@@ -37,5 +37,6 @@ My main research interest is edge computing, embedded intelligence, with a focus
 - DNN Compilation Optimization ([POS](https://Bigboyzzy.github.io/assets/pdf/POS_IPSN.pdf), [TOP](https://Bigboyzzy.github.io/assets/pdf/TPDS-TOP.pdf)).
 - Task Scheduling and Resource Allocation ([Octopus](https://Bigboyzzy.github.io/assets/pdf/ICSOC.pdf), [BCEdge](https://Bigboyzzy.github.io/assets/pdf/BCEdge_TNSM.pdf), [ECSRL](https://Bigboyzzy.github.io/assets/pdf/ECSRL_SenSys.pdf)).
 - Collaborative AI ([DVFO](https://Bigboyzzy.github.io/assets/pdf/DVFO_TMC.pdf)).
+- Energy-efficient DNN inference ([E4](https://Bigboyzzy.github.io/assets/pdf/AAAI_E4.pdf))
 
 You can find my CV [here](https://Bigboyzzy.github.io/assets/pdf/Ziyang_Zhang_CV.pdf).
