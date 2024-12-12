@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-DVFO: Learning-Based DVFS for Energy-Efficient Edge-Cloud Collaborative Inference, our paper was accepted by IEEE Transactions on Mobile Computing in January 2024.
+One paper was accepted by IEEE Transactions on Mobile Computing 2024!
