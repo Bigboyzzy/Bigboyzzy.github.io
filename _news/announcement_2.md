@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TOP: Task-Based Operator Parallelism for Asynchronous Deep Learning Inference on GPU, our paper was accepted by IEEE Transactions on Parallel and Distributed Systems in December 2024.
+One paper was accepted by IEEE Transactions on Parallel and Distributed Systems 2024!
