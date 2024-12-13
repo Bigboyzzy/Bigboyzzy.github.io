@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by IEEE Transactions on Network and Service Management 2024!
+One paper was accepted by IEEE Trans. on Network and Service Management 2024!
