@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by the 21st International Conference on Service Oriented Computing (ICSOC) 2023! (Acceptance Rate: 35/208, 16.8%)
+One paper was accepted by ICSOC 2023! (Acceptance Rate: 35/208, 16.8%)
