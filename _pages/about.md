@@ -30,8 +30,6 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-<!--I am currently a Postdoctoral Associate in the [NESLab](https://www.neslab.it/) at Politecnico di Milano. working with [Prof. Luca Mottola](https://mottola.faculty.polimi.it/). -->
-
 I obtained my Ph.D. degree from Harbin Institute of Technology in 2024, advised by [Prof. Jie Liu](https://drjieliu.github.io/) (IEEE Fellow, ACM Distinguished Scientist). I also work closely with [Prof. Yang Zhao](https://yangece.github.io/) at Harbin Institute of Technology (Shenzhen).
 
 My main research interest is edge computing, embedded intelligence, with a focus on high-performance and energy-efficent edge DNN inference.
