@@ -8,7 +8,7 @@ middle_name:
 last_name: Zhang
 email: zhangzy@stu.hit.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am currently a Postdoctoral Associate in the NESLab at Politecnico di Milano. working with [Prof. Luca Mottola](https://mottola.faculty.polimi.it/). I obtained my Ph.D. degree from Harbin Institute of Technology in 2024, advised by [Prof. Jie Liu](https://drjieliu.github.io/). I also work closely with [Prof. Yang Zhao](https://yangece.github.io/) at Harbin Institute of Technology (Shenzhen).
+  I obtained my Ph.D. degree from Harbin Institute of Technology in 2024, advised by [Prof. Jie Liu](https://drjieliu.github.io/). I also work closely with [Prof. Yang Zhao](https://yangece.github.io/) at Harbin Institute of Technology (Shenzhen).
 
 footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
