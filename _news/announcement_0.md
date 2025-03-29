@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by ACM SenSys 2025!
+One paper was accepted by ACM SenSys 2025 (Acceptance Rate: 46/245, 18.8%)!
